@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01.iml" filepath="$PROJECT_DIR$/.idea/01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mszlu-xt-common/mszlu-xt-common.iml" filepath="$PROJECT_DIR$/mszlu-xt-common/mszlu-xt-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso.iml" filepath="$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso-api/mszlu-xt-sso-api.iml" filepath="$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso-api/mszlu-xt-sso-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso-dao/mszlu-xt-sso-dao.iml" filepath="$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso-dao/mszlu-xt-sso-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso-domain/mszlu-xt-sso-domain.iml" filepath="$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso-domain/mszlu-xt-sso-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso-model/mszlu-xt-sso-model.iml" filepath="$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso-model/mszlu-xt-sso-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso-service/mszlu-xt-sso-service.iml" filepath="$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso-service/mszlu-xt-sso-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso-service-impl/mszlu-xt-sso-service-impl.iml" filepath="$PROJECT_DIR$/mszlu-xt-sso/mszlu-xt-sso-service-impl/mszlu-xt-sso-service-impl.iml" />
+    </modules>
+  </component>
+</project>
