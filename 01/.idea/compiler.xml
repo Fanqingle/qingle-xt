@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mszlu-xt-sso-service-impl" />
+        <module name="mszlu-xt-sso-model" />
+        <module name="mszlu-xt-common" />
+        <module name="mszlu-xt-sso-dao" />
+        <module name="mszlu-xt-sso-service" />
+        <module name="mszlu-xt-sso-domain" />
+        <module name="mszlu-xt-sso-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01" target="1.8" />
+      <module name="mszlu-xt-common" target="1.8" />
+      <module name="mszlu-xt-sso" target="1.8" />
+      <module name="mszlu-xt-sso-api" target="1.8" />
+      <module name="mszlu-xt-sso-dao" target="1.8" />
+      <module name="mszlu-xt-sso-domain" target="1.8" />
+      <module name="mszlu-xt-sso-model" target="1.8" />
+      <module name="mszlu-xt-sso-service" target="1.8" />
+      <module name="mszlu-xt-sso-service-impl" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mszlu-xt-common" options="-parameters" />
+      <module name="mszlu-xt-sso-api" options="-parameters" />
+      <module name="mszlu-xt-sso-dao" options="-parameters" />
+      <module name="mszlu-xt-sso-domain" options="-parameters" />
+      <module name="mszlu-xt-sso-model" options="-parameters" />
+      <module name="mszlu-xt-sso-service" options="-parameters" />
+      <module name="mszlu-xt-sso-service-impl" options="-parameters" />
+    </option>
+  </component>
+</project>
